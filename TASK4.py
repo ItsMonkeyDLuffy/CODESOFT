@@ -1,3 +1,4 @@
+'''This project aims to create a Rock-Paper-Scissors Game'''
 
 import random
 
